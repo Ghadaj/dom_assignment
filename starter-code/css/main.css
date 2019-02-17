@@ -1,0 +1,25 @@
+.analogue_clock {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  #clock {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  #hour {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  #min {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  #sec {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
